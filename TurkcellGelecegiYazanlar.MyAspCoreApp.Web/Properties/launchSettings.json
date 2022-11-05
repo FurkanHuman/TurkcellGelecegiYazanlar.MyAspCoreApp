@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "TurkcellGelecegiYazanlar.MyAspCoreApp.Web": {
+    "TurkcellGelecegiYazanlar.MyAspCoreApp.Web With Kestrel": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
